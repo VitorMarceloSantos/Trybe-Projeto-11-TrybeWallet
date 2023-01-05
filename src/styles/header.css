@@ -1,0 +1,61 @@
+.container-header {
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.container-logo {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.icon-money {
+  color: white;
+  font-size: 3.8em;
+  margin: 0 20px;
+}
+
+.container-logo h1 {
+  color: white;
+  font-size: 2em;
+}
+
+.container-login-position {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 5px 20px;
+  position: absolute;
+  right: 5vw;
+}
+
+.container-login {
+  align-items: center;
+  background-color: white;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  margin-right: 20px;
+  padding: 1px 5px;
+}
+
+.icon-user-login {
+  font-size: 1.3em;
+  margin-right: 5px;
+}
+
+.container-expenses-total {
+  display: flex;
+}
+
+.container-expenses-total p {
+  margin: 0 5px;
+}
+
+.container-expenses {
+  align-items: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
